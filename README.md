@@ -3,15 +3,29 @@
 A beginner cybersecurity project built with Python.
 
 ## Features
-- Checks password strength
-- Detects weak passwords
-- Suggests improvements
-- Uses regex validation
+- Detects weak, medium, and strong passwords
+- Checks:
+  - Length
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Special characters
+- Gives security suggestions for weak passwords
 
-## Technologies
+## Technologies Used
 - Python
 - Regular Expressions (re)
 
+## Sample Outputs
+
+### Weak Password Example
+![Weak Password](1000013647.jpg)
+
+### Medium Password Example
+![Medium Password](1000013648.jpg)
+
+### Strong Password Example
+![Strong Password](1000013649.jpg)
+
 ## Purpose
-Created for learning cybersecurity and Python basics.# Password-strength-checker-
-Beginner Python cybersecurity project for checking password strength.
+This project was created to practice beginner Python scripting and basic cybersecurity concepts related to password security.
